@@ -261,7 +261,7 @@ Then try control+c.
       Mon Jan 15 19:27:55 UTC 2018 
       ^C 
 
-The container will stays running, just disconnecting you from the STDOUT. 
+The container will stay running, just disconnecting you from the STDOUT. 
 
 To enter a container, we can start a new process in it.
 
